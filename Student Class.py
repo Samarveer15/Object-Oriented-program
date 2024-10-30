@@ -1,5 +1,5 @@
 class student:
-    grade = Nursery
+    grade = 6
     print("Hi I am a student of grade",grade)
 
 obj = student()
